@@ -1,0 +1,18 @@
+AWS Quick Project 
+
+Download the Dataset from below link :-
+
+Download netflix_titles.csv. - https://storage.googleapis.com/nextwork_course_resources/courses/aws/AWS%20Project%20People%20projects/Project%3A%20Visualise%20Data%20using%20Amazon%20QuickSight/netflix_titles.csv
+Download manifest.json - https://storage.googleapis.com/nextwork_course_resources/courses/aws/AWS%20Project%20People%20projects/Project%3A%20Visualise%20Data%20using%20Amazon%20QuickSight/manifest.json
+
+
+Step 1 - )
+Create an S3 bucket to store your dataset files.
+Upload the CSV file to your bucket.
+Modify and upload the manifest.json file to your bucket.
+
+Step 2) Create account on amazon quicksight
+
+Set up a new dataset in QuickSight.
+
+
