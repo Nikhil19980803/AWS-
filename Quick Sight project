@@ -15,4 +15,13 @@ Step 2) Create account on amazon quicksight
 
 Set up a new dataset in QuickSight.
 
+Questions based on Datasets. 
+
+Q1) I quite like the breakdown of TV shows/movies for each release year. Would it be possible to stack movies and TV shows in the same row, so you can visualise the % of each?
+Q2) Now can you show me the same thing in a table? i.e. please show me the number of movies vs TV shows per release year in a table."
+Q3) On what day did Netflix add the largest number of movies/TV shows to their catalogue?
+Q4) Of the TV shows and movies featured, how many were listed as 'Action & Adventure', 'TV Comedies', or 'Thrillers'? For simplicity, ignore the TV shows and movies that have multiple listings/categories."
+Q5) Of the TV shows and movies with the listing 'Action & Adventure', 'TV Comedies', or 'Thrillers', how many were released on 2015 or after?
+
+
 
