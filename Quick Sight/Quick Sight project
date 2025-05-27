@@ -26,4 +26,10 @@ Q5) Of the TV shows and movies with the listing 'Action & Adventure', 'TV Comedi
 For answers check out read me file
 
 
+TO refresh the and analyse the updated data - > first upload the new data set in S3 and then modify the json file with the updated URL then refresh the data 
+
+Click on dataset -> then edit -> refresh ( Full refresh) .
+
+
+
 
